@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently studying web development at Trybe
-- 😄 I´m graduted in IT management
+- 😄 I´m graduated in IT management
 - 📫 How to reach me: https://www.linkedin.com/in/hugo-somers-lombardi-abreu/
 - 🗺️ Brazil
 
