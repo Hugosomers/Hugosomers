@@ -1,7 +1,7 @@
 ## Hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 🌱 I’m currently studying web development at Trybe
+- 🌱 I’m currently working as Front End Devoleper at @DitoCRM
 - 😄 I´m graduated in IT management
 - 📫 How to reach me: https://www.linkedin.com/in/hugo-somers-lombardi-abreu/
 - 🗺️ Brazil
