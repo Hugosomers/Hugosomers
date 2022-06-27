@@ -1,4 +1,4 @@
-## Hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello everyone
 
 
 - 🌱 I’m currently working as Front End Devoleper at @DitoCRM
